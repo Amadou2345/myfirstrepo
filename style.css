@@ -1,0 +1,55 @@
+h1 {
+    font-family: Helvetica;
+    background-color: beige;
+    color: black;
+    text-align: center;
+}
+
+
+h2 {
+    text-align: center;
+}
+
+
+div {
+    font-family: Helvetica;
+    background-color: beige;
+    color: black;
+    font-size: 32px;
+    padding: 5px;
+ }
+ 
+ 
+ nav {
+    background-color: beige;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+ }
+ 
+ 
+ .items:hover {
+    background-color: gray;
+    opacity: 0.5;
+ }
+ 
+ 
+ a {
+    width: 20%;
+    text-align: center;
+    text-decoration: none;
+ }
+
+ div {
+    border: 5px solid beige;
+    display: flex;
+ }
+ 
+#one {
+    justify-content: center;
+    font-size: 22px;
+}
+#two {
+    justify-content: center;
+    font-size: 22px;
+}
